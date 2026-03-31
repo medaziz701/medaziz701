@@ -1,19 +1,15 @@
 <h2 align="left">
-  Hello friend! 👋 Welcome to my page! I'm Mohamed Aziz Chaabani, a Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Tunis, Tunisia. 💻
+  Hello! 👋 Welcome to my page! I'm Mohamed Aziz Chaabani, a Full-Stack Developer from 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Tunisia. 💻
 </h2>
 
-<h2>About Me</h2>
+<h2>🚀 About Me</h2>
 <p>
-I'm a Full-Stack Developer specializing in Web & Mobile Apps. I focus on building scalable applications, automating business processes, and creating interactive dashboards. Passionate about backend & frontend architecture, performance tuning, and delivering reliable systems.
+I'm a Full-Stack Developer specializing in web and mobile applications. I focus on building scalable systems, automating business processes, and creating interactive dashboards. I'm passionate about backend and frontend architecture, performance optimization, and delivering reliable, high-quality solutions.
 </p>
 
 <h2>🧠 Tech Stack</h2>
-<center>
-  <p>
-    <img alt="Code GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2piM2x1cWQ4enRpbzhtOWg1bDF4bXVuOWtlcnhra2lhMjN1dnUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
-  </p>
-</center>
-<p>
+<p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,43 +26,36 @@ I'm a Full-Stack Developer specializing in Web & Mobile Apps. I focus on buildin
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
 </p>
 
-<h2>🧩 Featured Projects</h2>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull Requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/medaziz701"><b>Portfolio & Web Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/medaziz701?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/medaziz701?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/medaziz701?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/medaziz701?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 <h2>💼 Professional Experience</h2>
 <ul>
-  <li>Assistant de Vente & Développeur Interne — Société de Matériaux de Construction (2025–Present)</li>
-  <li>Freelance Web Developer & Automation — Mostaql ⭐⭐⭐⭐⭐ (2025–Present)</li>
-  <li>Stagiaire Développement Informatique — Zahou Tech & Tunisie Telecom (2024–2025)</li>
+  <li>Sales Assistant & Internal Developer — Construction Materials Company (2025–Present)</li>
+  <li>Freelance Web Developer & Automation Specialist — Mostaql ⭐⭐⭐⭐⭐ (2025–Present)</li>
+  <li>Software Development Intern — Zahou Tech & Tunisia Telecom (2024–2025)</li>
 </ul>
 
 <h2>🎓 Education</h2>
-<p>Bachelor in Applied Computer Science for Management — FACULTÉ DES SCIENCES ÉCONOMIQUES ET DE GESTION DE NABEUL, Tunisia (2022–2025)</p>
+<p>
+Bachelor’s Degree in Applied Computer Science for Management — Faculty of Economic Sciences and Management of Nabeul, Tunisia (2022–2025)
+</p>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=medaziz701&theme=radical" height="180"/>
+</p>
+
 
 <h2>📫 Connect With Me</h2>
 <p align="center">
-  <a href="https://github.com/medaziz701" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:zz.chaabani@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chaabani-med-aziz-383713263/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/medaziz701" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:zz.chaabani@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chaabani-med-aziz-383713263/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
